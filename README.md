@@ -40,5 +40,4 @@ I was tasked with analyzing this hotel reservation dataset using SQL. Here are 1
 ## Repository Content:
 -  **Hotel Reservation Analysis - MSQ.sql** - SQL Text File - SQL Text file with all the data analysis
 -  **Hotel Reservation Analysis - MSQ.pptx** - PDF File - Detailed analysis of the project
--  **Hotel Reservation Analysis - MSQ.mp4** - Video File - Video recording explaining the project
 -  **Hotel Reservation Dataset** - Excel File - Raw data of Hotel Reservation details
